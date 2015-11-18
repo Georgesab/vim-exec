@@ -2,8 +2,10 @@
 A vim plugin that executes the current file.
 
 # Installation
-Install [pathogen](https://github.com/tpope/vim-pathogen), and then clone this repo into your `.vim/bundle` directory.
+Install [pathogen](https://github.com/tpope/vim-pathogen), and then run clone this repo into your `.vim/bundle` directory.
+
 ```
+cd ~/.vim/bundle && \
 git clone https://github.com/SamTebbs33/vim-exec
 ```
 
